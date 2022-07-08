@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sahil19-19
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning web dev
+- 💞️ I’m looking to work as an intern front end dev
 - 📫 reach me at sahilverma1931@gmail.com
 
 <!---
