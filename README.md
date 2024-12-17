@@ -10,7 +10,6 @@ I am a Computer Science and Engineering graduate from NIT Hamirpur. I am an aspi
 -  Twitter - [sahilwerma](https://x.com/sahilwerma)
 -  LeetCode - [saucepan_](https://leetcode.com/u/saucepan_/)
 -  CodeForces - [Saucepan](https://codeforces.com/profile/Saucepan)
----
 <!---
 sahil19-19/sahil19-19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
