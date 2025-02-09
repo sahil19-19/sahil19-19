@@ -2,7 +2,7 @@
 
 ## I am Sahil
 
-I am a Computer Science and Engineering graduate from NIT Hamirpur. I am an aspiring software engineer with experience in front-end dev and want to explore back-end. I am searching for intern/ full-time opportunities. Welcome to my GitHub page.
+I am a Computer Science and Engineering graduate from NIT Hamirpur. I am an aspiring software engineer with experience in front-end and back-end dev. I am searching for intern/ full-time opportunities. Welcome to my GitHub page.
 
 ---
 ##  Profile Links
