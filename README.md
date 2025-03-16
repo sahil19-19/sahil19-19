@@ -2,7 +2,8 @@
 
 ## I am Sahil
 
-I am a Computer Science and Engineering graduate from NIT Hamirpur currently working as a Backend Developer at Guestara. I am an aspiring software engineer with experience in front-end and back-end dev. I am searching for intern/ full-time opportunities. Welcome to my GitHub page.
+I am a Computer Science and Engineering graduate from NIT Hamirpur currently working as a Backend Developer at Guestara. I am an aspiring software engineer with experience in front-end and back-end dev. I am searching for intern/ full-time opportunities.  
+Welcome to my GitHub page.
 
 ---
 ##  Profile Links
