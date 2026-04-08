@@ -7,6 +7,7 @@ Welcome to my GitHub page.
 
 ---
 ##  Profile Links
+-  Resume - [resume](https://drive.google.com/drive/folders/1A-8pSJyLZs4Bpk7h-2GgBMFld2aOtnWm)
 -  LinkedIn - [sahilwerma](https://www.linkedin.com/in/sahilwerma/)
 -  Twitter - [sahilwerma](https://x.com/sahilwerma)
 -  LeetCode - [saucepan_](https://leetcode.com/u/saucepan_/)
